@@ -1,6 +1,6 @@
 ## Hi there 👋
 -I'm Currently Learning FullStack Web Developement From Laminds ...
-<!--
+
 # Hi 👋 I'm [Het Prajapati]
 
 ## 👨‍💻 About Me
@@ -23,4 +23,3 @@
 - Build real-world projects
 - Contribute to open source
 
--->
