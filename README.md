@@ -25,5 +25,5 @@
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HetPrajapati786&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetPrajapati786&layout=compact" height="165" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HetPrajapati786&layout=compact&theme=default)
 </p>
