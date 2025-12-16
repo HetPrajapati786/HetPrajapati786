@@ -1,16 +1,26 @@
 ## Hi there 👋
-
+-I'm Currently Learning FullStack Web Developement From Laminds ...
 <!--
-**HetPrajapati786/HetPrajapati786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm [Het Prajapati]
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🌱 I’m currently learning programming
+- 💻 Interested in technology and software development
+- 🚀 Building projects and improving my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠 Tech I Use / Learn
+- HTML
+- CSS
+- JavaScript
+- MYSQL
+- React
+- Tailwind CSS
+- Visual Studio Code
+- Git & GitHub
+
+## 📌 Goals
+- Learn more about web development
+- Build real-world projects
+- Contribute to open source
+
 -->
