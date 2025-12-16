@@ -1,11 +1,9 @@
 # Hi 👋 I'm **Het Prajapati**
 
-
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning programming
-- 💻 Interested in technology and software development
-- 🚀 Building projects and improving my skills
-
+- 🌱 I’m currently learning programming  
+- 💻 Interested in technology and software development  
+- 🚀 Building projects and improving my skills  
 
 ## 🛠 Tech I Use / Learn
 <p align="left">
@@ -19,18 +17,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 
-
 ## 📌 Goals
-- Learn more about web development
-- Build real-world projects
-- Contribute to open source
-
+- Learn more about web development  
+- Build real-world projects  
+- Contribute to open source  
 
 ## 📊 GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HetPrajapati786&show_icons=true&theme=default" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetPrajapati786&layout=compact" height="165" />
 </p>
-
-
