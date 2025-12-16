@@ -1,4 +1,4 @@
-# Hi 👋 I'm [Het Prajapati]
+# Hi 👋 I'm **Het Prajapati**
 
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning programming
