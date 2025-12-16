@@ -22,3 +22,7 @@
 - Build real-world projects
 - Contribute to open source
 
+## 📊 GitHub Stats
+
+![HetPrajapati786's GitHub stats](https://github-readme-stats.vercel.app/api?username=HetPrajapati786&show_icons=true&theme=default)
+
