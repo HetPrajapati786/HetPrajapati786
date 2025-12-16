@@ -23,8 +23,12 @@
 - Contribute to open source  
 
 ## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HetPrajapati786&show_icons=true&theme=default" height="165" />
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HetPrajapati786&show_icons=true&theme=default&hide_border=false" height="165" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetPrajapati786&layout=compact&theme=default&hide_border=false" height="165" />
 </p>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HetPrajapati786&layout=compact&theme=default)
